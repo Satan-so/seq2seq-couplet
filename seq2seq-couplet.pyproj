@@ -21,9 +21,7 @@
   <ItemGroup>
     <Compile Include="bleu.py" />
     <Compile Include="couplet.py" />
-    <Compile Include="iwslt.py" />
     <Compile Include="model.py" />
-    <Compile Include="nmt.py" />
     <Compile Include="reader.py" />
     <Compile Include="seq2seq.py" />
     <Compile Include="server.py" />
